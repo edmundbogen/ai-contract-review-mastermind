@@ -1,6 +1,8 @@
 # AI Contract Review & Transaction Automation
 ## Edmund's Mastermind Session - February 18, 2026
 
+![AI Contract Review & Transaction Automation](hero-image.png)
+
 ---
 
 ## JOIN THE SESSION
